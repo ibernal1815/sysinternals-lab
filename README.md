@@ -19,6 +19,17 @@ Each phase has its own folder with documentation, walkthroughs, logs, and any su
 | Phase 3 – Forensics and Incident Response | `phases/phase3-forensics-and-incident-response/` | Investigate simulated incidents, track persistence, build incident timelines |
 | Phase 4 – Advanced and Automation | `phases/phase4-advanced-and-automation/` | Automate workflows using Sysinternals and PowerShell; build repeatable scenarios |
 
+tree```
+├── README.md
+├── docs/
+│ └── (screenshots, diagrams, exported logs, notes)
+└── phases/
+├── phase0-environment-setup/
+├── phase1-sysinternals-basics/
+├── phase2-monitoring-and-analysis/
+├── phase3-forensics-and-incident-response/
+└── phase4-advanced-and-automation/
+
 ---
 
 ## Skills Demonstrated
